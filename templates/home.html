@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<style>
+	<!--link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">-->
+    </style>
+
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+
+		</div>
+
+		<form class="f1" action="about" method="POST">
+			<input id="about"  type="submit" name="" value="   About   ">
+		</form>
+
+		<h2 style="color:cyan;font-size:40px;text-align: center;">Drug Reviews(Sentiment Analysis)</h2>
+
+	</div>
+	</header>
+
+	<div class="ml-container">
+
+		<form action="predict" method="POST">
+		<p style="color:white;font-size:18px; text-align: center;">Enter Your Text/Review Here</p>
+		<!-- <input type="text" name="comment"/> -->
+		<p style="text-align: center;"><textarea name="message" rows="6" cols="50"></textarea></P>
+		<br/>
+		<p style="text-align: center;font-size:20px"><input id="first" type="submit" class="btn-info" value="Predict"></P>
+
+	</form>
+	</div>
+
+	<h3 style="color:gold;font-size:30px;text-align: center;">Upload a csv/excel file(for multiple review prediction)</h3>
+	<form class="" action="bulk_predict" method="POST" enctype = "multipart/form-data">
+		<input id="second" type="file" name="csvfile" value="">
+		<input id="third" type="submit" name="" value="Submit">
+	</form>
+
+	<button id="last" onclick="window.location.href='https://drive.google.com/uc?export=download&id=1Ro5Zmh4SjcVJap5t_3uSqzGkVzU-6YjO';">
+   			Download Sample File
+  		  </button>
+
+	<h4 style="color:orange;font-size:30px;text-align: center;">Select File For Retraining Model</h4>
+	<form class="" action="retrain" method="POST" enctype = "multipart/form-data">
+		<input id="second" type="file" name="retrain_file" value="">
+		<input id="third" type="submit" name="" value="Retrain">
+	</form>
+        <h3 style="color:greenyellow; font-size:25px;">{{ text }}<h3>
+
+
+     <style>
+        body{
+            background-image: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Monochrome-Type-Simple-Background-Image.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            text-align: center;
+            padding: 0px;
+        }
+
+		h2{
+		margin:0px;
+		 padding:20px;
+		  }
+
+		h3{
+		margin:0px;
+		 padding:35px;
+		  }
+
+		h4 {
+		margin:0px;
+		 padding:15px;
+		  }
+
+        #first {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+
+        }
+
+		#first:hover {
+        	background-color:lightcoral;
+
+        }
+        #second {
+            border-radius: 14px;
+            height: 25px;
+            color:white;
+            font-size: 18px;
+            text-align: center;
+        }
+
+		#third {
+			border-radius: 14px;
+            height: 25px;
+            font-size: 18px;
+            text-align: center;
+		}
+
+		#third:hover {
+        	background-color:lightcoral;
+        }
+
+        #last {
+        	border-radius:14px;
+            height: 25px;
+            font-size: 18px;
+            text-align:center;
+            margin:40px;
+			padding:20px;
+        }
+        #last:hover {
+        	background-color:lightseagreen;
+        }
+
+        #about {
+        font-size:18px;
+        position: absolute;
+        left: 20px;
+        }
+        #about:hover {
+        	background-color:lightgreen;
+        }
+
+	</style>
+</body>
+</html>

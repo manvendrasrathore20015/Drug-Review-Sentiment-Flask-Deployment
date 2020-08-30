@@ -1,0 +1,92 @@
+2020-08-30/20:08:40		=========== Home Page Opened =============
+2020-08-30/20:13:41		=========== Home Page Opened =============
+2020-08-30/20:13:43		=========== About Page Opened =============
+2020-08-30/20:13:43		Returning about page
+2020-08-30/20:13:54		=========== Bulk Prediction Started =============
+2020-08-30/20:13:54		File submitted for bulk prediction
+2020-08-30/20:13:54		File saved to directory
+2020-08-30/20:13:54		csv file Confirmed 
+2020-08-30/20:13:54		Data passed to model 
+2020-08-30/20:13:54		Saved file removed successfully
+2020-08-30/20:13:54		=========== Bulk Prediction Complete =============
+2020-08-30/20:14:01		=========== Bulk Prediction Started =============
+2020-08-30/20:14:01		File submitted for bulk prediction
+2020-08-30/20:14:01		File saved to directory
+2020-08-30/20:14:01		csv file Confirmed 
+2020-08-30/20:14:01		File uploded is not csv ..
+2020-08-30/20:14:01		Data passed to model 
+2020-08-30/20:14:01		Bulk Upload Failed . ERROR message :  [WinError 2] The system cannot find the file specified: 'download.png'
+2020-08-30/20:23:30		============= Home Page Opened =============
+2020-08-30/20:23:41		============= About Page Opened =============
+2020-08-30/20:23:41		Returning about page
+2020-08-30/20:23:50		============= Bulk Prediction Started =============
+2020-08-30/20:23:50		File submitted for bulk prediction
+2020-08-30/20:23:50		File saved to directory
+2020-08-30/20:23:51		Data passed to model 
+2020-08-30/20:23:51		Saved file removed successfully
+2020-08-30/20:23:51		============= Bulk Prediction Complete =============
+2020-08-30/20:24:00		============= Single Prediction Started =============
+2020-08-30/20:24:00		Data taken for single prediction
+2020-08-30/20:24:00		Data passed to model for prediction 
+2020-08-30/20:24:00		============= Single Prediction Completed =============
+2020-08-30/20:25:01		============= Retraining Model Started =============
+2020-08-30/20:25:01		=========== Start of Training =============
+2020-08-30/20:25:01		Entered the get_data method of the Data_Getter class
+2020-08-30/20:25:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-08-30/20:25:02		Entered the initialize_columns method of the Preprocessor class
+2020-08-30/20:25:02		Column name initialized successfully . Exited the initialize_columns method of the Preprocessor class
+2020-08-30/20:25:02		Entered the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:25:02		Null values in condition column replaced . Exited the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:25:02		Entered the remove_null_values method of the Preprocessor class
+2020-08-30/20:25:02		No null values present . Exited the remove_null_values method of the Preprocessor class
+2020-08-30/20:25:02		Entered the separate_imp_feature method of the Preprocessor class
+2020-08-30/20:25:02		Features Separation Successful . Exited the separate_imp_feature method of the Preprocessor class 
+2020-08-30/20:25:02		Entered the remove_stopwords method of the Preprocessor class
+2020-08-30/20:25:05		Stopwords removal Successful . Exited the remove_stopwords method of the Preprocessor class
+2020-08-30/20:25:05		Entered the adding_new_features method of the Preprocessor class
+2020-08-30/20:25:18		New Features Addition Successful . Exited the adding_new_features method of the Preprocessor class
+2020-08-30/20:25:18		Entered the save_preprocessed_file method of the Preprocessor class
+2020-08-30/20:25:21		Vertorization Successful . Exited the vertorizor method of the Preprocessor class
+2020-08-30/20:25:22		=========== Training Succesfull =============
+2020-08-30/20:25:22		============= Model Retraining Done =============
+2020-08-30/20:26:11		============= Retraining Model Started =============
+2020-08-30/20:26:15		=========== Start of Training =============
+2020-08-30/20:26:15		Entered the get_data method of the Data_Getter class
+2020-08-30/20:26:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-08-30/20:26:17		Entered the initialize_columns method of the Preprocessor class
+2020-08-30/20:26:17		Column name initialized successfully . Exited the initialize_columns method of the Preprocessor class
+2020-08-30/20:26:17		Entered the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:26:17		Null values in condition column replaced . Exited the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:26:17		Entered the remove_null_values method of the Preprocessor class
+2020-08-30/20:26:17		No null values present . Exited the remove_null_values method of the Preprocessor class
+2020-08-30/20:26:17		Entered the separate_imp_feature method of the Preprocessor class
+2020-08-30/20:26:17		Features Separation Successful . Exited the separate_imp_feature method of the Preprocessor class 
+2020-08-30/20:26:17		Entered the remove_stopwords method of the Preprocessor class
+2020-08-30/20:27:09		Stopwords removal Successful . Exited the remove_stopwords method of the Preprocessor class
+2020-08-30/20:27:09		Entered the adding_new_features method of the Preprocessor class
+2020-08-30/20:30:31		New Features Addition Successful . Exited the adding_new_features method of the Preprocessor class
+2020-08-30/20:30:31		Entered the save_preprocessed_file method of the Preprocessor class
+2020-08-30/20:31:29		Vertorization Successful . Exited the vertorizor method of the Preprocessor class
+2020-08-30/20:32:02		=========== Training Succesfull =============
+2020-08-30/20:32:03		============= Model Retraining Done =============
+2020-08-30/20:33:16		============= Home Page Opened =============
+2020-08-30/20:33:23		============= Retraining Model Started =============
+2020-08-30/20:33:27		=========== Start of Training =============
+2020-08-30/20:33:27		Entered the get_data method of the Data_Getter class
+2020-08-30/20:33:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-08-30/20:33:29		Entered the initialize_columns method of the Preprocessor class
+2020-08-30/20:33:29		Column name initialized successfully . Exited the initialize_columns method of the Preprocessor class
+2020-08-30/20:33:29		Entered the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:33:29		Null values in condition column replaced . Exited the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/20:33:29		Entered the remove_null_values method of the Preprocessor class
+2020-08-30/20:33:29		No null values present . Exited the remove_null_values method of the Preprocessor class
+2020-08-30/20:33:29		Entered the separate_imp_feature method of the Preprocessor class
+2020-08-30/20:33:29		Features Separation Successful . Exited the separate_imp_feature method of the Preprocessor class 
+2020-08-30/20:33:29		Entered the remove_stopwords method of the Preprocessor class
+2020-08-30/20:34:21		Stopwords removal Successful . Exited the remove_stopwords method of the Preprocessor class
+2020-08-30/20:34:21		Entered the adding_new_features method of the Preprocessor class
+2020-08-30/20:37:50		New Features Addition Successful . Exited the adding_new_features method of the Preprocessor class
+2020-08-30/20:37:50		Entered the save_preprocessed_file method of the Preprocessor class
+2020-08-30/20:38:50		Vertorization Successful . Exited the vertorizor method of the Preprocessor class
+2020-08-30/20:39:19		=========== Training Succesfull =============
+2020-08-30/20:39:20		============= Model Retraining Done =============

@@ -1,0 +1,18 @@
+2020-08-30/13:54:53		=========== Start of Training =============
+2020-08-30/13:54:53		Entered the get_data method of the Data_Getter class
+2020-08-30/13:54:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-08-30/13:54:55		Entered the initialize_columns method of the Preprocessor class
+2020-08-30/13:54:55		Column name initialized successfully . Exited the initialize_columns method of the Preprocessor class
+2020-08-30/13:54:55		Entered the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/13:54:55		Null values in condition column replaced . Exited the replace_missing_in_condition method of the Preprocessor class
+2020-08-30/13:54:55		Entered the remove_null_values method of the Preprocessor class
+2020-08-30/13:54:55		No null values present . Exited the remove_null_values method of the Preprocessor class
+2020-08-30/13:54:55		Entered the separate_imp_feature method of the Preprocessor class
+2020-08-30/13:54:55		Features Separation Successful . Exited the separate_imp_feature method of the Preprocessor class 
+2020-08-30/13:54:55		Entered the remove_stopwords method of the Preprocessor class
+2020-08-30/13:55:21		Stopwords removal Successful . Exited the remove_stopwords method of the Preprocessor class
+2020-08-30/13:55:21		Entered the adding_new_features method of the Preprocessor class
+2020-08-30/13:57:08		New Features Addition Successful . Exited the adding_new_features method of the Preprocessor class
+2020-08-30/13:57:09		Entered the save_preprocessed_file method of the Preprocessor class
+2020-08-30/13:57:40		Vertorization Successful . Exited the vertorizor method of the Preprocessor class
+2020-08-30/13:58:01		=========== Training Succesfull =============

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			
+		</div>
+		<h2 style="color:cyan;font-size:30px;text-align: center;">Drug reviews(Sentiment Analysis)</h2>
+		
+	</div>
+	</header>
+	<p style="color:lightyellow;font-size:20px;text-align: center;"><b>Results for your Comment</b></p>
+	<div class="results">
+		
+	{% if prediction == 2%}
+	<h2 style="color:lime;font-size:30px;text-align: center">Positive review </h2>
+	{% elif prediction == 0%}
+	<h2 style="color:magenta;font-size:30px;text-align: center">Neutral review</h2>
+	{% elif prediction == 1%}
+	<h2 style="color:red;font-size:30px;text-align: center">Negative review</h2>
+	{% endif %}
+
+	</div>
+    <style>
+        body {
+            background-image: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Monochrome-Type-Simple-Background-Image.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            text-align: center;
+            padding: 0px;
+            
+        }
+	</style>
+</body>
+</html>
