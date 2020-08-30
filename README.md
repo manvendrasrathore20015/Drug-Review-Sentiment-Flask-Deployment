@@ -5,6 +5,9 @@ The project was implemented with Python and used Juypter as the developing tool 
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload .
 
 # Final UI App
+Link :- https://www.youtube.com/embed/IGklOvyPg7Q
+
+View :-
 ![image](https://user-images.githubusercontent.com/52499914/91665029-74373280-eb10-11ea-9320-923bf0f7904a.png)
 
 # The UI Functionalities are ..
@@ -15,7 +18,6 @@ In datasets.zip , the retrain file can be used as a sample retrain file , and th
 => You can also download sample file for your reference .
 
 => You can retrain the model with your dataset aswell .
-https://www.youtube.com/embed/IGklOvyPg7Q
 
 # Technologies Used ..
 ![image](https://user-images.githubusercontent.com/52499914/91666855-fbd76e00-eb1d-11ea-965e-d3b15eefb017.png)
