@@ -12,14 +12,14 @@
 
 > Technologies Used
 
-### Overview ###
+### Overview 
 This is End-To-End-ML project to implement sentiment analysis of drug review, datasets came from UCI repository .
 The project was implemented with Python and used Juypter as the developing tool . datasets.zip contains the datasets which are being used in this app .
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload .
 
 => Refer Directory Tree below to place files in proper directory for app to run .. <=
 
-## Final UI App ###
+## Final UI App 
 Link :- https://www.youtube.com/embed/IGklOvyPg7Q
 
 View :-
