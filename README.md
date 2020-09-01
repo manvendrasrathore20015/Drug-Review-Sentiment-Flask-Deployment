@@ -1,18 +1,30 @@
 # Drug-Review-Sentiment-Flask-Deployment ..
 
+## Table of Content ..
+=> Overview
+
+=> Final UI App
+
+=> UI Functionalities
+
+=> Directory Tree
+
+=> Technologies Used
+
+## Overview
 This is End-To-End-ML project to implement sentiment analysis of drug review, datasets came from UCI repository .
 The project was implemented with Python and used Juypter as the developing tool . datasets.zip contains the datasets which are being used in this app .
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload .
 
 => Refer Directory Tree below to place files in proper directory for app to run .. <=
 
-### Final UI App
+## Final UI App
 Link :- https://www.youtube.com/embed/IGklOvyPg7Q
 
 View :-
 ![image](https://user-images.githubusercontent.com/52499914/91665029-74373280-eb10-11ea-9320-923bf0f7904a.png)
 
-## The UI Functionalities are ..
+## UI Functionalities ..
 => You can write your comment or review in the text box and predict it to get the Sentiment of the comment .
 
 => You can upload csv/excel file for bulk predictions .
@@ -21,11 +33,11 @@ View :-
 
 => You can retrain the model with your dataset aswell .
 
-# Directory Tree ..
+## Directory Tree ..
 
 ![image](https://user-images.githubusercontent.com/52499914/91889047-ce6bfb00-ecaa-11ea-861a-e68542f3ade6.png)
 
-# Technologies Used ..
+## Technologies Used ..
 
 ![image](https://user-images.githubusercontent.com/52499914/91667103-b9af2c00-eb1f-11ea-94aa-0bc19ffe0c8d.png)
 ![image](https://user-images.githubusercontent.com/52499914/91667123-d2b7dd00-eb1f-11ea-9eb7-0443570b03bb.png)
