@@ -1,16 +1,16 @@
-# :blush: Drug-Review-Sentiment-Flask-Deployment :blush: #
+# :star: Drug-Review-Sentiment-Flask-Deployment :star: #
 
 
 ## Table of Content .. ##
-> Overview
+> :point_right: Overview
 
-> Final UI App
+> :point_right: Final UI App
 
-> UI Functionalities
+> :point_right: UI Functionalities
 
-> Directory Tree
+> :point_right: Directory Tree
 
-> Technologies Used
+> :point_right: Technologies Used
 
 ### Overview 
 This is End-To-End-ML project to implement sentiment analysis of drug review, datasets came from UCI repository .
