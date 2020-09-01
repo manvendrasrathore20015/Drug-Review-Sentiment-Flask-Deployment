@@ -3,9 +3,13 @@
 
 ## Table of Content .. ##
 > Overview
+
 > Final UI App
+
 > UI Functionalities
+
 > Directory Tree
+
 > Technologies Used
 
 ### Overview ###
