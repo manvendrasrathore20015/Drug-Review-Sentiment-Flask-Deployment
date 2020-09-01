@@ -21,6 +21,36 @@ View :-
 
 => You can retrain the model with your dataset aswell .
 
+# Directory Tree ..
+
+ ├── applicaton_logging
+ │   ├── logger.py
+ ├── data_ingestion
+ │   ├── data_loader.py
+ |── data_preprocessing
+ |       ├── preprocessing.py
+ ├── datasets
+ │   ├── dataset.csv
+ |   ├── retrain.csv
+ │   ├── sample_file.csv
+ |── log_files
+ |   ├── FlaskApi.log
+ |   ├── ModelTraining_log
+ |── pickle_files
+ |   ├── d_transform.pkl
+ |   ├── drug_LinearSVC.pkl
+ |── templates
+ |   ├── about.html
+ |   ├── bulk.html
+ |   ├── home.html
+ |   ├── result.html
+ ├── application.py
+ ├── Dockerfile
+ ├── requirements.txt
+ ├── run_trainingModel.py
+ ├── trainingModel.py
+ ├── README.md
+
 # Technologies Used ..
 
 ![image](https://user-images.githubusercontent.com/52499914/91667103-b9af2c00-eb1f-11ea-94aa-0bc19ffe0c8d.png)
