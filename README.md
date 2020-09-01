@@ -4,7 +4,7 @@ This is End-To-End-ML project to implement sentiment analysis of drug review, da
 The project was implemented with Python and used Juypter as the developing tool . datasets.zip contains the datasets which are being used in this app .
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload .
 
-===> Do Remember to unzip the zip files in the same location where ziped files are present .. <===
+===> Do Remember to unzip the zip files in the same location where ziped files are present .(ex. datasets folder should be in working directory .. <===
 
 # Final UI App
 Link :- https://www.youtube.com/embed/IGklOvyPg7Q
