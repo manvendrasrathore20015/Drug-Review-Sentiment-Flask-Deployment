@@ -1,4 +1,4 @@
-# Drug-Review-Sentiment-Flask-Deployment .. #
+# :blush: Drug-Review-Sentiment-Flask-Deployment :blush: #
 
 
 ## Table of Content .. ##
