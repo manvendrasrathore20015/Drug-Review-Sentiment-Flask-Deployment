@@ -2,15 +2,11 @@
 
 
 ## Table of Content .. ##
-=> Overview
-
-=> Final UI App
-
-=> UI Functionalities
-
-=> Directory Tree
-
-=> Technologies Used
+> Overview
+> Final UI App
+> UI Functionalities
+> Directory Tree
+> Technologies Used
 
 ### Overview ###
 This is End-To-End-ML project to implement sentiment analysis of drug review, datasets came from UCI repository .
