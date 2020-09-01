@@ -5,6 +5,7 @@ import vaderSentiment
 from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import TfidfVectorizer
+nltk.download('stopwords')
 
 
 class Preprocessor:
