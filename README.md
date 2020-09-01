@@ -6,13 +6,13 @@ In datasets.zip , the retrain file can be used as a sample retrain file , and th
 
 => Refer Directory Tree below to place files in proper directory for app to run .. <=
 
-# Final UI App
+### Final UI App
 Link :- https://www.youtube.com/embed/IGklOvyPg7Q
 
 View :-
 ![image](https://user-images.githubusercontent.com/52499914/91665029-74373280-eb10-11ea-9320-923bf0f7904a.png)
 
-# The UI Functionalities are ..
+## The UI Functionalities are ..
 => You can write your comment or review in the text box and predict it to get the Sentiment of the comment .
 
 => You can upload csv/excel file for bulk predictions .
