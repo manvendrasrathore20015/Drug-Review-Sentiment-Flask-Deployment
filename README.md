@@ -20,7 +20,8 @@ In datasets.zip , the retrain file can be used as a sample retrain file , and th
 => Refer Directory Tree below to place files in proper directory for app to run .. <=
 
 ## :two: Final UI App 
-Link :- https://www.youtube.com/embed/IGklOvyPg7Q
+Demo :- https://www.youtube.com/embed/IGklOvyPg7Q
+App Link :- https://drug-reviews-sentiment.herokuapp.com/
 
 View :-
 ![image](https://user-images.githubusercontent.com/52499914/91665029-74373280-eb10-11ea-9320-923bf0f7904a.png)
