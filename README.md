@@ -27,6 +27,8 @@ App Link :- https://drug-reviews-sentiment.herokuapp.com/
 View :-
 ![image](https://user-images.githubusercontent.com/52499914/91665029-74373280-eb10-11ea-9320-923bf0f7904a.png)
 
+![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcars.usnews.com%2Fimages%2Farticle%2F202002%2F128389%2F1_title_2020_kia_optima.jpg&imgrefurl=https%3A%2F%2Fcars.usnews.com%2Fcars-trucks%2Fsafest-cars-of-the-year&tbnid=_JM0icwcegp_DM&vet=12ahUKEwiWoO6Kot_wAhWSRysKHR_CBtgQMygEegUIARDbAQ..i&docid=HYNR_U-LwC_C2M&w=1429&h=952&q=car&safe=active&ved=2ahUKEwiWoO6Kot_wAhWSRysKHR_CBtgQMygEegUIARDbAQ)
+
 ## :three: UI Functionalities ..
 => You can write your comment or review in the text box and predict it to get the Sentiment of the comment .
 
