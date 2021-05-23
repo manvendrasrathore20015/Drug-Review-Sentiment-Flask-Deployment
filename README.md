@@ -1,5 +1,6 @@
 # :star: Drug-Review-Sentiment-Flask-Deployment :star: #
 
+![Profile Photo 2](https://user-images.githubusercontent.com/52499914/119252278-f6004c00-bbc8-11eb-8cfc-babcdffccf3a.jpg)
 
 ## Table of Content .. ##
 > :point_right: Overview
